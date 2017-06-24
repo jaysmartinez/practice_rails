@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was a practice rails assignment to get more familiar with the framework
 
-Things you may want to cover:
+* Its a simple blog
 
-* Ruby version
+* Can create, delete, and edits the content
 
-* System dependencies
+* Has a login feature
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* id: 'dhh' password: 'secret'
